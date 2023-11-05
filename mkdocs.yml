@@ -58,6 +58,8 @@ nav:
         - File Formats: tools/retro-engine/common/files.md
         - Models: tools/retro-engine/common/models.md
         - Animation: tools/retro-engine/common/animation.md
+    - Sonic Adventure:
+      - Models: tools/others/sonicRPG/models.md
   - Guides:
     - guides/index.md
     - Hedgehog Engine:
